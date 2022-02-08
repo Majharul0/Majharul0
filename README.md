@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [![website](./img/fb-icon.svg )](https://www.facebook.com/profile.php?id=100077459536545)
-[![website](./img/fb-icon.svg)](https://www.facebook.com/profile.php?id=100077459536545)
 
 ### Languages and Tools:
 
