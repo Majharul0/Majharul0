@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [![website](./img/fb-icon.svg )](https://codestackr.com#gh-light-mode-only)
-<a><img src= "./img/fb-icon.svg" style= "width="26px""></a>
+[<a><img src= "./img/fb-icon.svg" style= "width="26px""></a>]
 [![website](./img/fb-icon.svg)](https://codestackr.com#gh-dark-mode-only)
 
 ### Languages and Tools:
