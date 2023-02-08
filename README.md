@@ -1,6 +1,6 @@
 ## I'm a Majharul Islam, Welcome!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with JavaScript ❤️
 - 🥅 2022 Goals: Learn More About BackEnd.
 - ⚡ Fun fact: I love to Coding and play Games.
